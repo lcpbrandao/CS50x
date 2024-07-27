@@ -1,1 +1,4 @@
 https://scratch.mit.edu/projects/1048606677/editor/
+
+-------------------------------------------------------------------
+It is a game of changing scenarios. Two kids ask what they should do next and the player can select an option from the ones provided on the screen. The player should select via keyboard and the kids go to a different scenario. The kids then ask if they should come back or not and the player should decide also via keyboard, following the instructions on the screen. Different sounds and movements happen when the scenarios change.
